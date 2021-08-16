@@ -1,0 +1,626 @@
+2021-07-08 19:27:25,737 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 19:27:31,233 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-08 19:30:57,490 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 19:31:00,278 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-08 20:31:33,310 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:31:37,226 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:31:37,568 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:31:37,825 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:31:37,894 [main] INFO logger_File - user entered email
+2021-07-08 20:31:37,964 [main] INFO logger_File - user entered password
+2021-07-08 20:31:38,477 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:31:43,639 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:31:44,272 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-08 20:42:25,491 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:42:28,956 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:42:29,270 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:42:29,468 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:42:29,532 [main] INFO logger_File - user entered email
+2021-07-08 20:42:29,593 [main] INFO logger_File - user entered password
+2021-07-08 20:42:30,107 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:42:35,278 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:42:35,901 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-08 20:56:39,895 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:56:45,050 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:56:45,348 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:56:45,571 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:56:45,666 [main] INFO logger_File - user entered email
+2021-07-08 20:56:45,731 [main] INFO logger_File - user entered password
+2021-07-08 20:56:46,375 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:56:51,539 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:56:52,195 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-08 20:57:04,703 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:57:15,681 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:57:15,993 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:57:16,225 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:57:16,307 [main] INFO logger_File - user entered email
+2021-07-08 20:57:16,376 [main] INFO logger_File - user entered password
+2021-07-08 20:57:17,270 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:57:22,428 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:57:23,067 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-08 21:43:19,578 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 21:43:23,236 [main] INFO logger_File - Retail Website is opened
+2021-07-08 21:43:23,799 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 21:43:24,014 [main] INFO logger_File - User Clicked on Login
+2021-07-08 21:43:24,672 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-08 21:51:22,261 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 21:51:26,822 [main] INFO logger_File - Retail Website is opened
+2021-07-08 21:51:27,100 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 21:51:27,301 [main] INFO logger_File - User Clicked on Login
+2021-07-08 21:51:27,975 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-09 12:10:21,746 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 12:10:25,704 [main] INFO logger_File - Retail Website is opened
+2021-07-09 12:10:26,131 [main] INFO logger_File - User clicked on MyAccount
+2021-07-09 12:10:26,398 [main] INFO logger_File - User Clicked on Login
+2021-07-09 12:10:27,108 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-09 15:11:25,167 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 15:11:29,250 [main] INFO logger_File - Retail Website is opened
+2021-07-09 15:11:29,613 [main] INFO logger_File - User clicked on MyAccount
+2021-07-09 15:11:29,962 [main] INFO logger_File - User Clicked on Login
+2021-07-09 15:11:30,735 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-09 15:18:53,475 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 15:19:11,608 [main] INFO logger_File - Retail Website is opened
+2021-07-09 15:19:12,236 [main] INFO logger_File - User clicked on MyAccount
+2021-07-09 15:19:14,964 [main] INFO logger_File - User Clicked on Login
+2021-07-09 15:19:15,766 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-09 16:05:08,827 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 16:05:13,574 [main] INFO logger_File - Retail Website is opened
+2021-07-09 16:05:13,913 [main] INFO logger_File - User clicked on MyAccount
+2021-07-09 16:05:14,186 [main] INFO logger_File - User Clicked on Login
+2021-07-09 16:05:14,329 [main] INFO logger_File - user entered email
+2021-07-09 16:05:14,443 [main] INFO logger_File - user entered password
+2021-07-09 16:05:15,034 [main] INFO logger_File - user clicked on login button
+2021-07-09 16:05:20,171 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-09 16:05:20,915 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-09 17:23:41,115 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 17:23:54,056 [main] INFO logger_File - Retail Website is opened
+2021-07-09 17:23:54,385 [main] INFO logger_File - User clicked on MyAccount
+2021-07-09 17:23:55,417 [main] INFO logger_File - User Clicked on Login
+2021-07-09 17:23:55,562 [main] INFO logger_File - user entered email
+2021-07-09 17:23:55,661 [main] INFO logger_File - user entered password
+2021-07-09 17:23:57,095 [main] INFO logger_File - user clicked on login button
+2021-07-09 17:24:02,270 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-09 17:24:03,035 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-12 19:29:21,395 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-12 19:29:26,258 [main] INFO logger_File - Retail Website is opened
+2021-07-12 19:29:26,828 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 19:29:27,115 [main] INFO logger_File - User Clicked on Login
+2021-07-12 19:29:27,276 [main] INFO logger_File - user entered email
+2021-07-12 19:29:27,350 [main] INFO logger_File - user entered password
+2021-07-12 19:29:27,977 [main] INFO logger_File - user clicked on login button
+2021-07-12 19:29:33,130 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-12 19:29:34,022 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-12 22:07:39,917 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-12 22:07:44,032 [main] INFO logger_File - Retail Website is opened
+2021-07-12 22:07:44,946 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 22:07:45,626 [main] INFO logger_File - user clicked on Register option
+2021-07-12 22:07:57,107 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-12 22:11:36,719 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-12 22:11:40,301 [main] INFO logger_File - Retail Website is opened
+2021-07-12 22:11:40,662 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 22:11:41,266 [main] INFO logger_File - user clicked on Register option
+2021-07-12 22:11:52,598 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-12 23:47:53,247 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 23:47:58,629 [main] INFO logger_File - Retail Website is opened
+2021-07-12 23:47:59,473 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 23:47:59,832 [main] INFO logger_File - User Clicked on Login
+2021-07-12 23:47:59,976 [main] INFO logger_File - user entered email
+2021-07-12 23:48:00,063 [main] INFO logger_File - user entered password
+2021-07-12 23:48:01,760 [main] INFO logger_File - user clicked on login button
+2021-07-12 23:48:06,904 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-12 23:48:07,630 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-12 23:48:07,635 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 23:48:10,658 [main] INFO logger_File - Retail Website is opened
+2021-07-12 23:48:10,975 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 23:48:11,249 [main] INFO logger_File - User Clicked on Login
+2021-07-12 23:48:11,325 [main] INFO logger_File - user entered email
+2021-07-12 23:48:11,387 [main] INFO logger_File - user entered password
+2021-07-12 23:48:12,008 [main] INFO logger_File - user clicked on login button
+2021-07-12 23:48:17,150 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-12 23:48:17,902 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-12 23:48:17,909 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 23:48:21,051 [main] INFO logger_File - Retail Website is opened
+2021-07-12 23:48:21,326 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 23:48:21,573 [main] INFO logger_File - User Clicked on Login
+2021-07-12 23:48:21,680 [main] INFO logger_File - user entered email
+2021-07-12 23:48:21,741 [main] INFO logger_File - user entered password
+2021-07-12 23:48:22,327 [main] INFO logger_File - user clicked on login button
+2021-07-12 23:48:27,471 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-12 23:48:28,189 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-12 23:51:32,651 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-12 23:51:36,317 [main] INFO logger_File - Retail Website is opened
+2021-07-12 23:51:36,694 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 23:51:37,392 [main] INFO logger_File - user clicked on Register option
+2021-07-12 23:51:48,890 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-13 00:04:45,653 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-13 00:04:49,151 [main] INFO logger_File - Retail Website is opened
+2021-07-13 00:04:49,680 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 00:04:50,677 [main] INFO logger_File - user clicked on Register option
+2021-07-13 00:04:51,351 [main] INFO logger_File - User filled the information form
+2021-07-13 00:04:51,458 [main] INFO logger_File - user accepted privacy and policy
+2021-07-13 00:04:52,369 [main] INFO logger_File - user clicked on continue button
+2021-07-13 00:04:52,417 [main] INFO logger_File - user Account has been created
+2021-07-13 00:04:53,320 [main] INFO logger_File - Register new user to Retail Website   passed
+2021-07-13 14:28:57,902 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-13 14:29:02,011 [main] INFO logger_File - Retail Website is opened
+2021-07-13 14:29:02,600 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 14:29:02,836 [main] INFO logger_File - User Clicked on Login
+2021-07-13 14:29:02,953 [main] INFO logger_File - user entered email
+2021-07-13 14:29:03,028 [main] INFO logger_File - user entered password
+2021-07-13 14:29:03,661 [main] INFO logger_File - user clicked on login button
+2021-07-13 14:29:08,807 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 14:29:09,528 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-13 14:29:09,534 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 14:29:12,812 [main] INFO logger_File - Retail Website is opened
+2021-07-13 14:29:13,070 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 14:29:13,348 [main] INFO logger_File - User Clicked on Login
+2021-07-13 14:29:13,442 [main] INFO logger_File - user entered email
+2021-07-13 14:29:13,547 [main] INFO logger_File - user entered password
+2021-07-13 14:29:14,138 [main] INFO logger_File - user clicked on login button
+2021-07-13 14:29:19,294 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 14:29:19,964 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 14:29:19,971 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 14:29:22,619 [main] INFO logger_File - Retail Website is opened
+2021-07-13 14:29:22,972 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 14:29:23,213 [main] INFO logger_File - User Clicked on Login
+2021-07-13 14:29:23,286 [main] INFO logger_File - user entered email
+2021-07-13 14:29:23,348 [main] INFO logger_File - user entered password
+2021-07-13 14:29:23,909 [main] INFO logger_File - user clicked on login button
+2021-07-13 14:29:29,039 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 14:29:29,753 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 14:29:29,757 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 14:29:32,737 [main] INFO logger_File - Retail Website is opened
+2021-07-13 14:29:33,058 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 14:29:33,319 [main] INFO logger_File - User Clicked on Login
+2021-07-13 14:29:33,412 [main] INFO logger_File - user entered email
+2021-07-13 14:29:33,478 [main] INFO logger_File - user entered password
+2021-07-13 14:29:34,108 [main] INFO logger_File - user clicked on login button
+2021-07-13 14:29:39,270 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 14:29:40,022 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 14:29:40,028 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-13 14:29:42,514 [main] INFO logger_File - Retail Website is opened
+2021-07-13 14:29:42,885 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 14:29:43,539 [main] INFO logger_File - user clicked on Register option
+2021-07-13 14:29:44,114 [main] INFO logger_File - User filled the information form
+2021-07-13 14:29:44,187 [main] INFO logger_File - user accepted privacy and policy
+2021-07-13 14:29:44,657 [main] INFO logger_File - user clicked on continue button
+2021-07-13 14:29:55,440 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-13 15:34:43,391 [main] INFO logger_File - Scenario Go in Home Page Started
+2021-07-13 15:34:47,406 [main] INFO logger_File - Retail Website is opened
+2021-07-13 15:34:48,405 [main] INFO logger_File - Go in Home Page   undefined
+2021-07-23 16:43:25,210 [main] INFO logger_File - Scenario Go in Home Page Started
+2021-07-23 16:43:32,622 [main] INFO logger_File - Retail Website is opened
+2021-07-23 16:43:33,552 [main] INFO logger_File - Go in Home Page   passed
+2021-07-23 16:43:33,560 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-07-23 16:43:36,903 [main] INFO logger_File - Retail website is opened
+2021-07-23 16:43:37,146 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-23 16:43:38,264 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-23 16:43:43,617 [main] INFO logger_File - User see all items are present in Desktop page
+2021-07-23 16:43:44,297 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-07-23 20:09:27,175 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-23 20:09:31,566 [main] INFO logger_File - Retail website is opened
+2021-07-23 20:09:31,882 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-23 20:09:32,432 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-23 20:09:33,285 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-23 20:33:51,110 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-23 20:33:54,862 [main] INFO logger_File - Retail website is opened
+2021-07-23 20:33:55,213 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-23 20:33:55,826 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-23 20:33:56,708 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-23 21:31:17,537 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-23 21:31:21,210 [main] INFO logger_File - Retail website is opened
+2021-07-23 21:31:21,506 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-23 21:31:22,530 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-23 21:31:23,657 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-23 21:31:28,529 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-23 21:37:16,455 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-23 21:37:20,893 [main] INFO logger_File - Retail website is opened
+2021-07-23 21:37:21,161 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-23 21:37:22,203 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-23 21:37:23,507 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-23 21:37:28,416 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-25 18:39:34,281 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-25 18:39:40,844 [main] INFO logger_File - Retail website is opened
+2021-07-25 18:39:41,160 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-25 18:39:42,118 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-25 18:39:42,936 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-25 18:46:08,431 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-25 18:46:12,056 [main] INFO logger_File - Retail website is opened
+2021-07-25 18:46:12,338 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-25 18:46:13,184 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-25 18:46:14,055 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-25 18:51:11,227 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-25 18:51:15,549 [main] INFO logger_File - Retail website is opened
+2021-07-25 18:51:15,842 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-25 18:51:16,406 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-25 18:51:17,776 [main] INFO logger_File - User clicked ADD TO CART option on 'HP LP3065' item
+2021-07-25 18:51:22,760 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-25 18:58:42,518 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-25 18:58:45,904 [main] INFO logger_File - Retail website is opened
+2021-07-25 18:58:46,211 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-25 18:58:46,997 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-25 18:58:48,699 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-25 18:58:53,703 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-25 19:07:35,229 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-25 19:07:38,649 [main] INFO logger_File - Retail website is opened
+2021-07-25 19:07:38,961 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-25 19:07:39,554 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-25 19:07:40,759 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-25 19:07:45,746 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-25 19:13:23,647 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-25 19:13:27,607 [main] INFO logger_File - Retail website is opened
+2021-07-25 19:13:27,943 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-25 19:13:28,867 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-25 19:13:30,502 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-25 19:13:35,407 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-25 22:34:07,117 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-07-25 22:34:12,949 [main] INFO logger_File - Retail website is opened
+2021-07-25 22:34:13,269 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-25 22:34:13,941 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-25 22:34:14,780 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-07-25 23:36:30,769 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-07-25 23:36:34,694 [main] INFO logger_File - Retail website is opened
+2021-07-25 23:36:35,146 [main] INFO logger_File - user click on currency
+2021-07-25 23:36:35,820 [main] INFO logger_File - User verify currency values change   undefined
+2021-07-25 23:47:22,388 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-07-25 23:47:26,333 [main] INFO logger_File - Retail website is opened
+2021-07-25 23:47:26,735 [main] INFO logger_File - user click on currency
+2021-07-25 23:47:27,786 [main] INFO logger_File - user chose euro from dropdown
+2021-07-25 23:47:28,860 [main] INFO logger_File - User verify currency values change   failed
+2021-07-25 23:50:31,032 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-07-25 23:50:34,599 [main] INFO logger_File - Retail website is opened
+2021-07-25 23:50:34,963 [main] INFO logger_File - user click on currency
+2021-07-25 23:50:35,623 [main] INFO logger_File - user chose euro from dropdown
+2021-07-25 23:50:36,063 [main] INFO logger_File - currency value should changed to euro
+2021-07-25 23:50:36,749 [main] INFO logger_File - User verify currency values change   passed
+2021-07-25 23:51:46,341 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-07-25 23:51:50,288 [main] INFO logger_File - Retail website is opened
+2021-07-25 23:51:50,694 [main] INFO logger_File - user click on currency
+2021-07-25 23:51:51,199 [main] INFO logger_File - user chose euro from dropdown
+2021-07-25 23:51:51,597 [main] INFO logger_File - currency value should changed to euro
+2021-07-25 23:51:52,583 [main] INFO logger_File - User verify currency values change   passed
+2021-07-26 00:16:33,804 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-07-26 00:16:38,086 [main] INFO logger_File - Retail website is opened
+2021-07-26 00:16:39,073 [main] INFO logger_File - User verify currency values change   failed
+2021-07-26 00:16:39,079 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-07-26 00:16:41,944 [main] INFO logger_File - Retail website is opened
+2021-07-26 00:16:42,790 [main] INFO logger_File - User empty Shopping cart message displays   undefined
+2021-07-26 00:26:45,613 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-07-26 00:26:49,553 [main] INFO logger_File - Retail website is opened
+2021-07-26 00:26:50,275 [main] INFO logger_File - user click on shopping cart
+2021-07-26 00:26:50,327 [main] INFO logger_File - your shopping cart is empty! message should display
+2021-07-26 00:26:51,196 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-07-26 00:39:30,941 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-07-26 00:39:35,903 [main] INFO logger_File - Retail website is opened
+2021-07-26 00:39:36,662 [main] INFO logger_File - user click on shopping cart
+2021-07-26 00:39:37,370 [main] INFO logger_File - User empty Shopping cart message displays   failed
+2021-07-26 00:43:58,754 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-07-26 00:44:03,760 [main] INFO logger_File - Retail website is opened
+2021-07-26 00:44:04,641 [main] INFO logger_File - user click on shopping cart
+2021-07-26 00:44:04,701 [main] INFO logger_File - your shopping cart is empty! message should display
+2021-07-26 00:44:05,582 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-07-26 09:52:48,731 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-26 09:52:52,826 [main] INFO logger_File - Retail website is opened
+2021-07-26 09:52:53,166 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-26 09:52:53,736 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-26 09:52:55,126 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-26 09:53:00,022 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-26 10:31:34,786 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-26 10:31:38,455 [main] INFO logger_File - Retail website is opened
+2021-07-26 10:31:38,750 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-26 10:31:39,287 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-26 10:31:40,560 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-26 10:31:45,437 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-27 23:00:32,988 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-27 23:00:45,468 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:00:45,976 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:00:51,271 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:01:00,434 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-27 23:01:05,360 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-27 23:02:40,770 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-27 23:02:44,518 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:02:44,954 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:02:46,811 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:02:49,711 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-27 23:02:54,722 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-27 23:04:03,932 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-27 23:04:13,391 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:04:13,840 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:04:14,960 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:04:17,075 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-27 23:04:22,163 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-27 23:11:07,348 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-27 23:11:12,576 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:11:12,979 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:11:14,569 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:11:18,440 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-27 23:11:23,406 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-27 23:13:45,374 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-27 23:13:49,267 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:13:49,648 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:13:54,130 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:13:57,894 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-27 23:13:58,995 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-27 23:15:42,082 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-07-27 23:15:52,571 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:15:52,932 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:15:54,589 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:16:00,063 [main] INFO logger_File - User see all items are present in Desktop page
+2021-07-27 23:16:00,786 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-07-27 23:16:00,791 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-27 23:16:30,522 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:16:30,781 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:16:31,910 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:16:33,405 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-27 23:16:38,314 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-07-27 23:16:38,319 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-07-27 23:16:41,718 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:16:42,028 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:16:42,887 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:16:43,734 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-07-27 23:16:43,739 [main] INFO logger_File - Scenario  Started
+2021-07-27 23:16:47,489 [main] INFO logger_File - Retail website is opened
+2021-07-27 23:16:47,759 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-27 23:16:48,493 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-27 23:16:49,322 [main] INFO logger_File -    undefined
+2021-07-29 23:23:04,472 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-07-29 23:23:10,221 [main] INFO logger_File - User verify all items are present in Desktops tab   failed
+2021-07-29 23:23:10,228 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-07-29 23:23:12,299 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-07-29 23:23:12,303 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-07-29 23:23:14,362 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-07-29 23:23:14,368 [main] INFO logger_File - Scenario  Started
+2021-07-29 23:23:16,395 [main] INFO logger_File -    failed
+2021-07-30 00:17:03,296 [main] INFO logger_File - Scenario  Started
+2021-07-30 00:17:07,593 [main] INFO logger_File - Retail website is opened
+2021-07-30 00:17:07,964 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-30 00:17:08,514 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-30 00:17:09,394 [main] INFO logger_File -    undefined
+2021-07-30 01:04:21,168 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-07-30 01:04:23,880 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-07-30 01:06:37,193 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-07-30 01:06:39,811 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-07-30 11:09:26,314 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-07-30 11:09:31,368 [main] INFO logger_File - Retail Website is opened
+2021-07-30 11:09:31,660 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 11:09:32,605 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 11:09:33,948 [main] INFO logger_File - user clicked on MacBook item
+2021-07-30 11:09:34,008 [main] INFO logger_File - User clicked add to Cart button
+2021-07-30 11:09:34,072 [main] INFO logger_File - user cliked on cert option
+2021-07-30 11:09:35,184 [main] INFO logger_File - user clicked on red X button to remove the item from cart
+2021-07-30 11:09:35,966 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-07-30 11:09:35,972 [main] INFO logger_File - Scenario Product Comparison Started
+2021-07-30 11:09:39,246 [main] INFO logger_File - Retail Website is opened
+2021-07-30 11:09:39,503 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 11:09:40,547 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 11:09:41,210 [main] INFO logger_File - Product Comparison   undefined
+2021-07-30 11:09:41,215 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-07-30 11:09:44,222 [main] INFO logger_File - Retail Website is opened
+2021-07-30 11:09:44,455 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 11:09:44,873 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 11:09:45,553 [main] INFO logger_File - Adding an item to Wish list   undefined
+2021-07-30 11:09:45,558 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-07-30 11:09:48,534 [main] INFO logger_File - Retail Website is opened
+2021-07-30 11:09:48,796 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 11:09:49,275 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 11:09:49,934 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   undefined
+2021-07-30 23:13:19,251 [main] INFO logger_File - Scenario Product Comparison Started
+2021-07-30 23:13:24,054 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:13:24,404 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:13:24,843 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:13:24,900 [main] INFO logger_File - User click on product comparison icon on ‘MacBook’
+2021-07-30 23:13:24,964 [main] INFO logger_File - User click on product comparison icon on ‘MacBook’
+2021-07-30 23:13:25,116 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-07-30 23:13:25,767 [main] INFO logger_File - user clicked on product comparison
+2021-07-30 23:13:25,805 [main] INFO logger_File - User should see Product Comparison Chart
+2021-07-30 23:13:26,515 [main] INFO logger_File - Product Comparison   passed
+2021-07-30 23:28:59,423 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-07-30 23:29:03,061 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:29:03,400 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:29:03,775 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:29:14,540 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-07-30 23:34:40,812 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-07-30 23:34:44,402 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:34:44,703 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:34:45,456 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:34:45,515 [main] INFO logger_File - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-07-30 23:34:46,355 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-07-30 23:41:18,171 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-07-30 23:41:21,555 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:41:21,957 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:41:22,391 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:41:23,485 [main] INFO logger_File - User click on ‘MacBook Pro’ item
+2021-07-30 23:41:28,203 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   undefined
+2021-07-30 23:45:52,196 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-07-30 23:45:55,707 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:45:56,044 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:45:56,471 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:45:57,627 [main] INFO logger_File - User click on ‘MacBook Pro’ item
+2021-07-30 23:45:57,905 [main] INFO logger_File - User see the price tag present on UI
+2021-07-30 23:46:02,650 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-07-30 23:52:39,416 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-07-30 23:52:42,904 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:52:43,352 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:52:43,751 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:52:44,806 [main] INFO logger_File - user clicked on MacBook item
+2021-07-30 23:52:44,874 [main] INFO logger_File - User clicked add to Cart button
+2021-07-30 23:52:45,620 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-07-30 23:56:16,030 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-07-30 23:56:19,592 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:56:19,881 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:56:20,296 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:56:21,368 [main] INFO logger_File - user clicked on MacBook item
+2021-07-30 23:56:21,431 [main] INFO logger_File - User clicked add to Cart button
+2021-07-30 23:56:26,169 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-07-30 23:56:26,175 [main] INFO logger_File - Scenario Product Comparison Started
+2021-07-30 23:56:28,783 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:56:29,058 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:56:29,458 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:56:29,522 [main] INFO logger_File - User click on product comparison icon on �MacBook�
+2021-07-30 23:56:29,577 [main] INFO logger_File - User click on product comparison icon on �MacBook�
+2021-07-30 23:56:29,734 [main] INFO logger_File - User should see a message �Success: You have added MacBook Air to your product comparison!�
+2021-07-30 23:56:30,032 [main] INFO logger_File - user clicked on product comparison
+2021-07-30 23:56:40,766 [main] INFO logger_File - Product Comparison   failed
+2021-07-30 23:56:40,774 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-07-30 23:56:43,701 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:56:43,965 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:56:44,364 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:56:44,428 [main] INFO logger_File - user clicked on heart icon to add �Sony VaIO� laptop to wish list
+2021-07-30 23:56:45,565 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-07-30 23:56:45,570 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-07-30 23:56:48,201 [main] INFO logger_File - Retail Website is opened
+2021-07-30 23:56:48,540 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-07-30 23:56:48,937 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-07-30 23:56:49,943 [main] INFO logger_File - User click on �MacBook Pro� item
+2021-07-30 23:56:50,133 [main] INFO logger_File - User see the price tag present on UI
+2021-07-30 23:56:54,856 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-07-31 21:54:24,114 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-07-31 21:54:28,772 [main] INFO logger_File - Retail website is opened
+2021-07-31 21:54:29,099 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 21:54:29,697 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 21:54:35,036 [main] INFO logger_File - User see all items are present in Desktop page
+2021-07-31 21:54:35,889 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-07-31 21:54:35,891 [main] INFO logger_File - Scenario User add HP LP3065  from Desktops tab to the cart Started
+2021-07-31 21:54:39,039 [main] INFO logger_File - Retail website is opened
+2021-07-31 21:54:39,831 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 21:54:40,936 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 21:54:42,756 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-31 21:54:44,295 [main] INFO logger_File - User add HP LP3065  from Desktops tab to the cart   undefined
+2021-07-31 21:54:44,302 [main] INFO logger_File - Scenario User add CanonEOS5D from Desktops tab to the cart Started
+2021-07-31 21:54:48,411 [main] INFO logger_File - Retail website is opened
+2021-07-31 21:54:49,153 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 21:54:49,733 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 21:54:51,076 [main] INFO logger_File - User add CanonEOS5D from Desktops tab to the cart   undefined
+2021-07-31 21:54:51,079 [main] INFO logger_File - Scenario  Started
+2021-07-31 21:54:54,632 [main] INFO logger_File - Retail website is opened
+2021-07-31 21:54:55,403 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 21:54:55,959 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 21:54:57,250 [main] INFO logger_File -    undefined
+2021-07-31 23:14:26,287 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-07-31 23:14:31,336 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:14:31,729 [main] INFO logger_File - user click on currency
+2021-07-31 23:14:32,173 [main] INFO logger_File - user chose euro from dropdown
+2021-07-31 23:14:32,785 [main] INFO logger_File - currency value should changed to euro
+2021-07-31 23:14:33,754 [main] INFO logger_File - User verify currency values change   passed
+2021-07-31 23:14:33,759 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-07-31 23:14:36,593 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:14:37,286 [main] INFO logger_File - user click on shopping cart
+2021-07-31 23:14:37,335 [main] INFO logger_File - your shopping cart is empty! message should display
+2021-07-31 23:14:38,187 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-07-31 23:50:17,334 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-07-31 23:50:22,999 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:50:23,619 [main] INFO logger_File - user click on shopping cart
+2021-07-31 23:50:23,674 [main] INFO logger_File - your shopping cart is empty! message should display
+2021-07-31 23:50:24,528 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-07-31 23:51:38,124 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-07-31 23:51:41,561 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:51:42,037 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 23:51:42,591 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 23:51:47,980 [main] INFO logger_File - User see all items are present in Desktop page
+2021-07-31 23:51:48,676 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-07-31 23:51:48,681 [main] INFO logger_File - Scenario User add HP LP3065  from Desktops tab to the cart Started
+2021-07-31 23:51:51,788 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:51:52,154 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 23:51:52,750 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 23:51:54,194 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-07-31 23:51:55,187 [main] INFO logger_File - User add HP LP3065  from Desktops tab to the cart   undefined
+2021-07-31 23:51:55,194 [main] INFO logger_File - Scenario User add CanonEOS5D from Desktops tab to the cart Started
+2021-07-31 23:52:00,901 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:52:01,204 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 23:52:02,355 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 23:52:03,240 [main] INFO logger_File - User add CanonEOS5D from Desktops tab to the cart   undefined
+2021-07-31 23:52:03,246 [main] INFO logger_File - Scenario  Started
+2021-07-31 23:52:06,026 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:52:06,425 [main] INFO logger_File - User clicked on Desktops tab
+2021-07-31 23:52:06,975 [main] INFO logger_File - User clicked on Show all desktops
+2021-07-31 23:52:07,842 [main] INFO logger_File -    undefined
+2021-07-31 23:52:07,850 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-07-31 23:52:10,958 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:52:11,214 [main] INFO logger_File - user click on currency
+2021-07-31 23:52:11,676 [main] INFO logger_File - user chose euro from dropdown
+2021-07-31 23:52:11,981 [main] INFO logger_File - currency value should changed to euro
+2021-07-31 23:52:12,965 [main] INFO logger_File - User verify currency values change   passed
+2021-07-31 23:52:12,972 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-07-31 23:52:16,265 [main] INFO logger_File - Retail website is opened
+2021-07-31 23:52:16,766 [main] INFO logger_File - user click on shopping cart
+2021-07-31 23:52:16,804 [main] INFO logger_File - your shopping cart is empty! message should display
+2021-07-31 23:52:17,629 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-08-01 00:02:41,738 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-08-01 00:02:45,369 [main] INFO logger_File - Retail website is opened
+2021-08-01 00:02:45,818 [main] INFO logger_File - User clicked on Desktops tab
+2021-08-01 00:02:46,399 [main] INFO logger_File - User clicked on Show all desktops
+2021-08-01 00:02:51,744 [main] INFO logger_File - User see all items are present in Desktop page
+2021-08-01 00:02:52,404 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-08-01 00:02:52,410 [main] INFO logger_File - Scenario User add HP LP3065  from Desktops tab to the cart Started
+2021-08-01 00:02:55,249 [main] INFO logger_File - Retail website is opened
+2021-08-01 00:02:55,587 [main] INFO logger_File - User clicked on Desktops tab
+2021-08-01 00:02:56,141 [main] INFO logger_File - User clicked on Show all desktops
+2021-08-01 00:02:57,731 [main] INFO logger_File - User clicked ADD TO CART option on HP LP3065 item
+2021-08-01 00:02:58,756 [main] INFO logger_File - User add HP LP3065  from Desktops tab to the cart   undefined
+2021-08-01 00:02:58,759 [main] INFO logger_File - Scenario User add CanonEOS5D from Desktops tab to the cart Started
+2021-08-01 00:03:01,909 [main] INFO logger_File - Retail website is opened
+2021-08-01 00:03:02,194 [main] INFO logger_File - User clicked on Desktops tab
+2021-08-01 00:03:02,765 [main] INFO logger_File - User clicked on Show all desktops
+2021-08-01 00:03:03,682 [main] INFO logger_File - User add CanonEOS5D from Desktops tab to the cart   undefined
+2021-08-01 00:03:03,686 [main] INFO logger_File - Scenario  Started
+2021-08-01 00:03:06,658 [main] INFO logger_File - Retail website is opened
+2021-08-01 00:03:07,000 [main] INFO logger_File - User clicked on Desktops tab
+2021-08-01 00:03:07,530 [main] INFO logger_File - User clicked on Show all desktops
+2021-08-01 00:03:08,381 [main] INFO logger_File -    undefined
+2021-08-01 00:44:55,624 [main] INFO logger_File - Scenario User add a review to Canon EOS5D item in Desktops tab Started
+2021-08-01 00:44:59,737 [main] INFO logger_File - Retail website is opened
+2021-08-01 00:45:00,318 [main] INFO logger_File - User clicked on Desktops tab
+2021-08-01 00:45:00,912 [main] INFO logger_File - User clicked on Show all desktops
+2021-08-01 00:45:01,939 [main] INFO logger_File - User add a review to Canon EOS5D item in Desktops tab   undefined
+2021-08-01 00:54:49,653 [main] INFO logger_File - Scenario Product Comparison Started
+2021-08-01 00:54:53,513 [main] INFO logger_File - Retail Website is opened
+2021-08-01 00:54:53,881 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-08-01 00:54:54,356 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-08-01 00:54:54,437 [main] INFO logger_File - User click on product comparison icon on ‘MacBook’
+2021-08-01 00:54:54,527 [main] INFO logger_File - User click on product comparison icon on ‘MacBook’
+2021-08-01 00:54:54,719 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-08-01 00:54:55,041 [main] INFO logger_File - user clicked on product comparison
+2021-08-01 00:55:05,860 [main] INFO logger_File - Product Comparison   failed
+2021-08-01 01:01:08,560 [main] INFO logger_File - Scenario Product Comparison Started
+2021-08-01 01:01:12,332 [main] INFO logger_File - Retail Website is opened
+2021-08-01 01:01:12,778 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-08-01 01:01:13,236 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-08-01 01:01:13,301 [main] INFO logger_File - User click on product comparison icon on ‘MacBook’
+2021-08-01 01:01:13,364 [main] INFO logger_File - User click on product comparison icon on ‘MacBook’
+2021-08-01 01:01:13,587 [main] INFO logger_File - User should see a message ‘Success: You have added MacBook Air to your product comparison!’
+2021-08-01 01:01:14,259 [main] INFO logger_File - user clicked on product comparison
+2021-08-01 01:01:14,287 [main] INFO logger_File - User should see Product Comparison Chart
+2021-08-01 01:01:14,981 [main] INFO logger_File - Product Comparison   passed
+2021-08-01 01:02:55,879 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-08-01 01:02:59,582 [main] INFO logger_File - Retail Website is opened
+2021-08-01 01:03:00,078 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-08-01 01:03:00,641 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-08-01 01:03:00,741 [main] INFO logger_File - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-01 01:03:01,632 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-08-01 01:11:36,711 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-08-01 01:11:40,350 [main] INFO logger_File - Retail Website is opened
+2021-08-01 01:11:40,794 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-08-01 01:11:41,786 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-08-01 01:11:41,873 [main] INFO logger_File - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-01 01:11:42,776 [main] INFO logger_File - Adding an item to Wish list   failed
+2021-08-01 01:14:55,974 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-01 01:14:59,757 [main] INFO logger_File - Retail Website is opened
+2021-08-01 01:15:00,265 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-08-01 01:15:00,890 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-08-01 01:15:02,351 [main] INFO logger_File - User click on ‘MacBook Pro’ item
+2021-08-01 01:15:02,641 [main] INFO logger_File - User see the price tag present on UI
+2021-08-01 01:15:03,508 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-08-01 13:08:02,594 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-01 13:08:06,872 [main] INFO logger_File - Retail Website is opened
+2021-08-01 13:08:07,219 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-08-01 13:08:07,660 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-08-01 13:08:08,712 [main] INFO logger_File - User click on ‘MacBook Pro’ item
+2021-08-01 13:08:08,978 [main] INFO logger_File - User see the price tag present on UI
+2021-08-01 13:08:13,700 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-08-01 13:08:45,869 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-01 13:08:49,848 [main] INFO logger_File - Retail Website is opened
+2021-08-01 13:08:50,137 [main] INFO logger_File - user clicked on Laptop NoteBooks
+2021-08-01 13:08:50,555 [main] INFO logger_File - user click on show all Laptop &NoteBooks option
+2021-08-01 13:08:51,609 [main] INFO logger_File - User click on ‘MacBook Pro’ item
+2021-08-01 13:08:51,867 [main] INFO logger_File - User see the price tag present on UI
+2021-08-01 13:08:56,588 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed

@@ -1,0 +1,131 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2043003100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on Retail websiteWhen",
+            "match": {
+              "location": "LaptopNoteBooksStepsDef.user_is_on_Retail_websiteWhen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 49647800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on Laptop \u0026NoteBook tab",
+            "match": {
+              "location": "LaptopNoteBooksStepsDef.user_click_on_Laptop_NoteBook_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 416930500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Show all Laptop \u0026NoteBook option",
+            "match": {
+              "location": "LaptopNoteBooksStepsDef.user_click_on_Show_all_Laptop_NoteBook_option()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2209261600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "Validate the price of MacBook Pro is 2000",
+        "description": "",
+        "id": "laptop-\u0026-notebooks;validate-the-price-of-macbook-pro-is-2000",
+        "after": [
+          {
+            "result": {
+              "duration": 4722013400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1052448800,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "User click on ‘MacBook Pro’ item",
+            "match": {
+              "location": "LaptopNoteBooksStepsDef.user_click_on_MacBook_Pro_item()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 256253500,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User should see  \"$2,000.00\" price tag is present on UI",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$2,000.00",
+                  "offset": 18
+                }
+              ],
+              "location": "LaptopNoteBooksStepsDef.User_should_see__price_tag_is_present_on_UI(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 36,
+            "name": "@laptop4"
+          }
+        ]
+      }
+    ],
+    "name": "Laptop \u0026 NoteBooks",
+    "description": "",
+    "id": "laptop-\u0026-notebooks",
+    "keyword": "Feature",
+    "uri": "Features/laptopNoteBooks.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@laptop"
+      }
+    ]
+  }
+]
